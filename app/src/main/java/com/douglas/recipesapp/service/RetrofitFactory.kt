@@ -1,6 +1,6 @@
-package com.douglas.receiptapp.service
+package com.douglas.recipesapp.service
 
-import com.douglas.receiptapp.BuildConfig
+import com.douglas.recipesapp.BuildConfig
 import com.google.gson.GsonBuilder
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
