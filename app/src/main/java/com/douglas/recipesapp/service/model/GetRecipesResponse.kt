@@ -4,5 +4,5 @@ import com.douglas.recipesapp.domain.model.Recipe
 
 data class GetRecipesResponse(
     val count: Int?,
-    val recipes: List<Recipe>
+    val recipes: List<Recipe>?
 )
