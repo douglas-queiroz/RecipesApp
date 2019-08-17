@@ -4,5 +4,5 @@ import com.douglas.recipesapp.domain.model.Recipe
 
 interface GetRecipesUseCase {
 
-    suspend fun getreceipts(): List<Recipe>
+    suspend fun getRecipes(): List<Recipe>
 }
